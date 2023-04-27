@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-swipe": "^6.0.4",
+    "swipe-js-iso": "^2.1.5"
+  }
+}
